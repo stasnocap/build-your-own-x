@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Sleep",
+            "type": "shell",
+            "command": "sleep 1",
+            "presentation": {
+                "reveal": "silent",
+                "panel": "new"
+            },
+            "group": "none"
+        }
+    ]
+}
