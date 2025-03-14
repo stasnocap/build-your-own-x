@@ -1,3 +1,5 @@
 main
 bin
 .rspec
+mydb.db
+test.db
